@@ -1,0 +1,209 @@
+/*
+#e63244 --> Fucsia
+#f8b2b2 --> Rosa
+#62ecac --> Verde Agua
+*/
+
+body{
+  text-align: center;
+  background-color: #f8b2b2;
+  margin: 0px;
+  font-family: monospace;
+}
+
+.header {
+  height: 200px;
+  background-color: #e63244;
+  margin: 0px;
+  margin: 0px 0px 25px 0px;
+}
+
+.titulo h1 {
+  color: white;
+  font-size: 65px;
+  padding: 20px 0px 0px 70px;
+  font-weight: bold;
+  float: left;
+  letter-spacing: 0.05em;
+}
+
+.titulo img{
+  float: right;
+  padding: 0px 100px 0px 0px;
+  width: 200px;
+}
+
+.menu{
+  background-color: white;
+  line-height: 50px;
+  height: 50px;
+}
+
+.menu-content a{
+  color: #e63244;
+  padding: 5px;
+  margin: 0px 15px 0px 15px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.elu-img{
+  border: solid 5px #e63244;
+  border-radius: 10px;
+  align-items: center;
+}
+
+#elu{
+  border: solid 5px #e63244;
+  border-radius: 10px;
+}
+
+#nieve{
+  border: solid 5px #e63244;
+  border-radius: 10px;
+}
+
+#panda{
+  border: solid 5px #e63244;
+  border-radius: 10px;
+  margin-right: 25px;
+}
+
+#osito{
+  border: solid 5px #e63244;
+  border-radius: 10px;
+  margin-left: 25px;
+}
+
+.contenido {
+  font-size: 22px;
+  background-color: white;
+  border: solid 20px #e63244;
+  margin: 25px 200px 25px 200px;
+  letter-spacing: 0.05em;
+  font-family: sans-serif;
+}
+
+#title{
+  margin-bottom: 0px;
+  font-size: 25px;
+}
+
+#carta{
+  margin-top: 0px;
+  padding: 0px 100px 0px 100px
+}
+
+#carta-2-3{
+  margin-top: 0px;
+  padding: 30px 100px 0px 100px
+}
+
+.url {
+  margin: 0px 15px 15px 15px;
+}
+
+.url a{
+  color: white;
+  font-size: 18px;
+  border: solid 2.5px #e63244;
+  background-color: #e63244;
+  border-radius: 3px;
+  color: white;
+}
+
+.siguiente-first{
+  margin: 0px 0px 0px 830px;
+  padding: 5px 5px 5px 5px;
+}
+
+.atras{
+  margin: 0px 386px 0px 0px;
+  padding: 5px 5px 5px 5px;
+}
+
+.siguiente{
+  padding: 5px 5px 5px 5px;
+  margin: 0px 0px 0px 386px;
+}
+
+.inicio{
+  padding: 5px 5px 5px 5px;
+  margin: 0px 0px 0px 372px;
+}
+
+.num-pag p{
+  height: 30px;
+  padding-top: 6px;
+  padding-bottom: 0px;
+  margin: 0px 650px 0px 650px;
+  color: white;
+  font-size: 20px;
+  border: solid 2.5px #e63244;
+  background-color: #e63244;
+  border-radius: 3px;
+  color: white;
+}
+
+/*---> FOOTER <--- */
+.footer{
+  background-color: white;
+  height: 150px;
+  margin-top: 25px;
+  background-color: #e63244;
+  text-align: left;
+}
+
+.columna{
+  min-width: 250px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.footer h3 {
+  color: white;
+  margin: 30px 0px 15px 50px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.footer a {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 30px 0px 15px 50px;
+}
+
+.footer p{
+  padding: 0px 0px 15px 50px;
+  font-size: 15px;
+  color: white;
+}
+
+.fotos-footer {
+  padding: 0px 0px 0px 50px;
+}
+
+.fotos-footer img {
+  padding: 0px 0px 0px 8px;
+}
+
+.footer-msj{
+  margin: 0px 0px 0px 50px;
+}
+
+.dani-elu{
+  margin: 0px 0px 0px 50px;
+}
+
+.corazon{
+  margin: 30px 0px 0px 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  color: #ffec1f;
+}

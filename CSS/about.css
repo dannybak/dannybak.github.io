@@ -1,0 +1,112 @@
+/*
+#e63244 --> Fucsia
+#f8b2b2 --> Rosa
+#62ecac --> Verde Agua
+*/
+
+body{
+  background-color: #f8b2b2;
+  font-family: monospace;
+  margin: 0px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  line-height: 100px;
+  height: 100px;
+  background-color: #e63244;
+  margin: 0px 0px 50px 0px;
+}
+
+.titulo h1{
+  color: white;
+  font-size: 50px;
+  margin: 0px 0px 0px 0px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.menu{
+  background-color: white;
+  line-height: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+.menu-content a{
+  color: #e63244;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0px 15px 0px 15px;
+}
+
+#yo {
+  border: solid 5px #e63244;
+  margin: 0px 0px 0px 0px;
+  float: left;
+}
+
+.cuerpo-content{
+  border: solid 5px #e63244;
+  background-color: white;
+  height: 467px;
+}
+
+.parrafo1 h2{
+  font-size: 25px;
+  padding: 20px 0px 5px 400px;
+  color: #e63244;
+}
+
+.parrafo1 p{
+  font-size: 20px;
+  color: black;
+  padding: 0px 125px 25px 500px;
+}
+
+.parrafo2 h2{
+  font-size: 25px;
+  padding: 20px 0px 5px 400px;
+  color: #e63244;
+}
+
+.parrafo2 p{
+  font-size: 20px;
+  color: black;
+  padding: 0px 125px 25px 500px;
+}
+
+.cuerpo-pics{
+  background-color: #e63244;
+  height: 37px;
+  float: right;
+  margin: 30px 0px 0px 0px;
+  padding: 6px 0px 0px 5px;
+}
+
+.footer{
+  margin: 40px 0px 0px 0px;
+}
+
+.footer img{
+  width: 250px;
+  float: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.footer p{
+  margin: 0px 0px 25px 0px;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+}
+
+a:hover{
+  color: #ffec1f;
+}
